@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "comparator_on",
+    "normal": "comparator_on_normal",
+    "metalness_emissive_roughness": "comparator_on_mer"
+  }
+}

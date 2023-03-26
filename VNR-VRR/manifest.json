@@ -1,0 +1,33 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Vanilla RTX Renewed",
+    "description": "templete",
+    "uuid": "b6beffba-6d87-407d-bec2-f88db75e057a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "templete",
+      "type": "resources",
+      "uuid": "0298442d-595a-4fde-899e-6cdca77b0e43",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "capabilities": [
+    "raytraced"
+  ]
+}

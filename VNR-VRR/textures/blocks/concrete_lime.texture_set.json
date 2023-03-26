@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "concrete_lime",
+    "normal": "concrete_lime_normal",
+    "metalness_emissive_roughness": "concrete_lime_mer"
+  }
+}

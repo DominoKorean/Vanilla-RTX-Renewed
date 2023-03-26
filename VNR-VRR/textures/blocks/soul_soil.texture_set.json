@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "soul_soil",
+    "normal": "soul_soil_normal",
+    "metalness_emissive_roughness": "soul_soil_mer"
+  }
+}

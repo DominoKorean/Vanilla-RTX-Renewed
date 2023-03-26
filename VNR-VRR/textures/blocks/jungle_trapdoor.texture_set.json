@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "jungle_trapdoor",
+    "normal": "jungle_trapdoor_normal",
+    "metalness_emissive_roughness": "jungle_trapdoor_mer"
+  }
+}

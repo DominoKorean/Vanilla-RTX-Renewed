@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "sign_oak",
+    "normal": "sign_oak_normal",
+    "metalness_emissive_roughness": "sign_oak_mer"
+  }
+}

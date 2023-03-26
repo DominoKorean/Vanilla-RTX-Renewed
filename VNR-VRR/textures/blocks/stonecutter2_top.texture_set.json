@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "stonecutter2_top",
+    "normal": "stonecutter2_top_normal",
+    "metalness_emissive_roughness": "stonecutter2_top_mer"
+  }
+}

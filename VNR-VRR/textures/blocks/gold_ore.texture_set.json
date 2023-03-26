@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "gold_ore",
+    "normal": "gold_ore_normal",
+    "metalness_emissive_roughness": "gold_ore_mer"
+  }
+}

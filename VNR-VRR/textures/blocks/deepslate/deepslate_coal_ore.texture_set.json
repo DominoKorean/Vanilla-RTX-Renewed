@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "deepslate_coal_ore",
+    "normal": "deepslate_coal_ore_normal",
+    "metalness_emissive_roughness": "deepslate_coal_ore_mer"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "deepslate_copper_ore",
+    "normal": "deepslate_copper_ore_normal",
+    "metalness_emissive_roughness": "deepslate_copper_ore_mer"
+  }
+}

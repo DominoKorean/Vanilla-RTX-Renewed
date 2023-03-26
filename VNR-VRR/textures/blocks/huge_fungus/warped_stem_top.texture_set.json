@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "warped_stem_top",
+    "normal": "warped_stem_top_normal",
+    "metalness_emissive_roughness": "warped_stem_top_mer"
+  }
+}

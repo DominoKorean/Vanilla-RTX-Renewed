@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "azalea_leaves_flowers",
+    "normal": "azalea_leaves_flowers_normal",
+    "metalness_emissive_roughness": "azalea_leaves_flowers_mer"
+  }
+}

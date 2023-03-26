@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "sandstone_carved",
+    "normal": "sandstone_carved_normal",
+    "metalness_emissive_roughness": "sandstone_carved_mer"
+  }
+}

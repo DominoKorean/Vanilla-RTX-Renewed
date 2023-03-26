@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "concrete_purple",
+    "normal": "concrete_purple_normal",
+    "metalness_emissive_roughness": "concrete_purple_mer"
+  }
+}

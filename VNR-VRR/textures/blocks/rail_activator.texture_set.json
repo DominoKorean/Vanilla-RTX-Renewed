@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "rail_activator",
+    "normal": "rail_activator_normal",
+    "metalness_emissive_roughness": "rail_activator_mer"
+  }
+}

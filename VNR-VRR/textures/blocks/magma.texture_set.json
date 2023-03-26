@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "magma",
+    "normal": "magma_normal",
+    "metalness_emissive_roughness": "magma_mer"
+  }
+}

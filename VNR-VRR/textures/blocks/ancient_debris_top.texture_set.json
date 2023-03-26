@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "ancient_debris_top",
+    "normal": "ancient_debris_top_normal",
+    "metalness_emissive_roughness": "ancient_debris_top_mer"
+  }
+}

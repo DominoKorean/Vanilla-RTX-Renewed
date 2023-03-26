@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "leaves_jungle",
+    "normal": "leaves_jungle_normal",
+    "metalness_emissive_roughness": "leaves_jungle_mer"
+  }
+}
