@@ -2,7 +2,7 @@
   "format_version": "1.16.100",
   "minecraft:texture_set": {
     "color": "repeating_command_block_side",
-    "normal": "repeating_command_block_side_normal",
-    "metalness_emissive_roughness": "repeating_command_block_side_mer"
+    "normal": "command_block_normal",
+    "metalness_emissive_roughness": "command_block_mer"
   }
 }
