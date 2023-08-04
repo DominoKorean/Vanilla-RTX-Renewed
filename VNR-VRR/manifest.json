@@ -2,12 +2,12 @@
   "format_version": 2,
   "header": {
     "name": "Vanilla RTX Renewed",
-    "description": "templete",
+    "description": "VRR for 1.19, by DominoKorean",
     "uuid": "b6beffba-6d87-407d-bec2-f88db75e057a",
     "version": [
       1,
       0,
-      0
+      4
     ],
     "min_engine_version": [
       1,
@@ -17,7 +17,7 @@
   },
   "modules": [
     {
-      "description": "templete",
+      "description": "VRR for 1.19, by DominoKorean",
       "type": "resources",
       "uuid": "0298442d-595a-4fde-899e-6cdca77b0e43",
       "version": [
