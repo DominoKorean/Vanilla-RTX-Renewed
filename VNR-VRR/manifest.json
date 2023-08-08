@@ -5,14 +5,10 @@
     "description": "VRR for 1.19, by DominoKorean",
     "uuid": "b6beffba-6d87-407d-bec2-f88db75e057a",
     "version": [
-      1,
-      0,
-      4
+      1, 0, 4
     ],
     "min_engine_version": [
-      1,
-      16,
-      0
+      1, 16, 0
     ]
   },
   "modules": [
@@ -21,13 +17,11 @@
       "type": "resources",
       "uuid": "0298442d-595a-4fde-899e-6cdca77b0e43",
       "version": [
-        1,
-        0,
-        0
+        1, 0, 0
       ]
     }
   ],
   "capabilities": [
-    "raytraced"
+    "pbr"
   ]
 }
