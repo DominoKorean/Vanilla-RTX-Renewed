@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "glow_squid",
+    "normal": "glow_squid_normal",
+    "metalness_emissive_roughness": "glow_squid_mer"
+  }
+}
