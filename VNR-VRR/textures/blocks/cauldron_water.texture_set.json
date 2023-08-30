@@ -1,1 +1,8 @@
-{"format_version": "1.16.100","minecraft:texture_set": {"color":"cauldron_water","metalness_emissive_roughness": "cauldron_water_mer"}}
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+      "color": "cauldron_water",
+      "normal": "cauldron_water_normal",
+      "metalness_emissive_roughness": "cauldron_water_mer"
+    }
+  }
