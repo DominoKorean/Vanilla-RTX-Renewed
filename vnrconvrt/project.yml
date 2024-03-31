@@ -1,0 +1,10 @@
+name: vnrconvrt
+input:
+  format: raw
+profiles:
+- edition: Java
+  format: 9
+  name: vnrconvrt-LabPbr
+  description: A short description of the RP content.
+  encoding:
+    format: lab-1.3

@@ -3,6 +3,8 @@
 Vanilla RTX Renewed is a Bedrock PBR resource pack based on Vanilla Normal Renewed.  
 It was  created for use when a based PBR resource pack is needed, such as for map making.
 
+## [Please support me at here](https://link-target.net/1153493/vanilla-rtx-renewed)
+
 <br/>
 <br/>
 <br/>
