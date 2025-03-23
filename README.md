@@ -1,3 +1,8 @@
+# use this
+more good
+https://github.com/Cubeir/Vanilla-RTX
+
+
 # Vanilla RTX Renewed
 
 Vanilla RTX Renewed is a Bedrock PBR resource pack based on Vanilla Normal Renewed.  
